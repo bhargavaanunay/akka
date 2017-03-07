@@ -1,1 +1,1 @@
-# akka
+Akka POC for learning purpose
